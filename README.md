@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AmodTheCoder
-- 👀 I’m interested in Cloud Computing, Big Data, and Machine Learning
-- 🌱 I’m currently learning Electronics Engineering
+- 👀 Proficient in Python, PyTorch, Tensorflow, and OpenCV.
+- 🌱 I’m currently engaged in my Final Year Project.
